@@ -77,5 +77,3 @@ The project consists of the following files:
 1. Houses with higher **grade**, **sqft_living**, and **view** tend to have higher prices.
 2. Properties with waterfront views command a significant premium.
 3. Renovations and newer houses positively impact house value.
-
-For more details, check out the
